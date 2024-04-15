@@ -1,1 +1,4 @@
 jones/
+human-pose-estimation.pytorch/
+human_pose_estimation/
+__pycache__/
